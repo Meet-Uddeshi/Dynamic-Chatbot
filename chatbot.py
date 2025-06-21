@@ -10,7 +10,7 @@ import re
 import speech_recognition as sr
 
 # Step => 2 Define configuration settings and initialize analytics tracker
-GEMINI_API_KEY = "AIzaSyBf8pAsVY9QCMHtoTGVDfHDdPzNVMeVkmw"
+GEMINI_API_KEY = "YOUR_API_KEY"
 GEMINI_MODEL = "gemini-1.5-flash"
 CONVERSATION_LOG = "chat_history.json"
 ANALYTICS_LOG = "chat_analytics.json"
